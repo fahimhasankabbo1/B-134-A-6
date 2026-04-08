@@ -44,7 +44,7 @@ const ProductCart = ({p,h,info}) => {
                     <span className={`badge ${p.badge === 'Popular' && "text-green-600 bg-green-200 border border-green-500" || p.badge === 'New' && "text-yellow-600 bg-yellow-200 border border-yellow-600" || p.badge === 'Best Seller' && "text-red-600 bg-red-200 border border-red-500"} font-semibold`}>{p.badge}</span>
                 </div>
                 <button className='px-2 py-3 border border-gray-300 rounded-full text-4xl mb-3'>{p.icon}</button>
-                <h2 className='text-2xl font-bold mb-2'>{p.plan_name}</h2>
+                <h2 className='text-2xl font-bold mb-2 text-black'>{p.plan_name}</h2>
                 <p className='text-gray-400 font-semibold mb-2'>{p.description}</p>
                 <p className='text-gray-500 font-semibold mb-3'><span className='text-2xl text-black font-bold'>$<span>{p.price}</span></span>{p.duration}</p>
 
