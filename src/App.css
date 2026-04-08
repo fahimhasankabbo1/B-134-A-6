@@ -1,0 +1,20 @@
+.navbar {
+  background: #2563eb; /* Bright Blue */
+  padding: 16px 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Navbar Links */
+.navbar a {
+  color: #ffffff; /* White text for better contrast */
+  font-weight: 600;
+  margin: 0 12px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #facc15; /* Yellow accent on hover */
+}

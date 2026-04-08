@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "plan_name": "Starter Lite",
+    "icon": "🌱",
+    "price": 9,
+    "duration": "/Mo",
+    "badge": "New",
+    "description": "Entry-level plan for beginners testing AI tools.",
+    "feature_1": "2,000 AI words per month",
+    "feature_2": "Basic writing templates",
+    "feature_3": "Grammar suggestions"
+  },
+  {
+    "id": 7,
+    "plan_name": "Academic Pro",
+    "icon": "🎓",
+    "price": 20,
+    "duration": "/Mo",
+    "badge": "New",
+    "description": "Tailored for students and researchers writing papers.",
+    "feature_1": "Citation & bibliography generator",
+    "feature_2": "Essay & thesis outliner",
+    "feature_3": "Tone & style adjustment"
+  },
+  {
+    "id": 6,
+    "plan_name": "Social Media Boost",
+    "icon": "📱",
+    "price": 25,
+    "duration": "/Mo",
+    "badge": "New",
+    "description": "Specialized for influencers and social media managers.",
+    "feature_1": "Unlimited caption ideas",
+    "feature_2": "Hashtag & trend generator",
+    "feature_3": "Emoji & style suggestions"
+  },
+  {
+    "id": 2,
+    "plan_name": "Writer Plus",
+    "icon": "🤖",
+    "price": 39,
+    "duration": "/Mo",
+    "badge": "Best Seller",
+    "description": "Perfect for bloggers and marketers needing daily AI content.",
+    "feature_1": "Unlimited AI generations",
+    "feature_2": "60+ writing templates",
+    "feature_3": "Advanced grammar & tone checker"
+  },
+  {
+    "id": 4,
+    "plan_name": "SEO Master",
+    "icon": "🔍",
+    "price": 59,
+    "duration": "/Mo",
+    "badge": "Popular",
+    "description": "For professionals focused on ranking higher in search engines.",
+    "feature_1": "Unlimited AI content",
+    "feature_2": "Keyword research & clustering",
+    "feature_3": "SERP analyzer integration"
+  },
+  {
+    "id": 3,
+    "plan_name": "Team Agency",
+    "icon": "🏢",
+    "price": 99,
+    "duration": "/Mo",
+    "badge": "Popular",
+    "description": "Designed for small teams collaborating on content projects.",
+    "feature_1": "Up to 10 team members",
+    "feature_2": "SEO optimization suite",
+    "feature_3": "Plagiarism & originality checker"
+  },
+  {
+    "id": 5,
+    "plan_name": "Enterprise Suite",
+    "icon": "🏆",
+    "price": 249,
+    "duration": "/Mo",
+    "badge": "Best Seller",
+    "description": "Enterprise-grade solution for large organizations.",
+    "feature_1": "Dedicated account manager",
+    "feature_2": "Custom AI model training",
+    "feature_3": "Full API & integration support"
+  },
+  {
+    "id": 8,
+    "plan_name": "Lifetime Premium",
+    "icon": "💎",
+    "price": 599,
+    "duration": "/Once",
+    "badge": "Best Seller",
+    "description": "One-time payment for lifetime AI writing access.",
+    "feature_1": "All future updates included",
+    "feature_2": "Priority customer support",
+    "feature_3": "Unlimited cloud storage for drafts"
+  },
+  {
+    "id": 9,
+    "plan_name": "Creative Studio",
+    "icon": "🎨",
+    "price": 45,
+    "duration": "/Mo",
+    "badge": "New",
+    "description": "Ideal for designers, artists, and content creators who want AI-powered creative assistance.",
+    "feature_1": "AI image & design generator",
+    "feature_2": "Custom branding templates",
+    "feature_3": "Collaboration tools for creative teams"
+  }
+]
