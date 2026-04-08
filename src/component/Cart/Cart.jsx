@@ -47,9 +47,9 @@ const Cart = ({info,g,total,setI}) => {
 
             {
                 info.length === 0 && (
-                    <div className='font-bold py-15 bg-black rounded-2xl'>
+                    <div className='font-bold py-15 bg-white rounded-2xl'>
                         <h2 className='flex justify-center text-6xl mb-4 text-black'><BsCart2 /></h2>
-                        <h2 className='text-center text-2xl text-black-500'>Your Cart is empty</h2>
+                        <h2 className='text-center text-2xl text-black'>Your Cart is empty</h2>
                     </div>
                 )
             }
