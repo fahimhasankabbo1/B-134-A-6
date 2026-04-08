@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 🔗 **Live Demo (Netlify):** [digitools-platform-9b1830.netlify.app](digitools-platform-9b1830.netlify.apps)  
-🔗 **GitHub Repository:** [B-134-A-6](https://github.com/fahimhasankabbo1/B-134-A-6)
+🔗 **GitHub Repository:** [https://github.com/fahimhasankabbo1/B-134-A-6](https://github.com/fahimhasankabbo1/B-134-A-6)
 
 DigiTools is a modern React-based web application developed by **Fahim Hasan Kabbo**. It enables users to explore, select, and manage premium digital resources such as AI tools, templates, and productivity software. The platform is built with a focus on clean UI, responsive design, and a seamless user experience.
 
